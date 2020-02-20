@@ -1,10 +1,13 @@
 
-https://gnenov89.github.io/ATF/
+
 # Project Title
 
-One Paragraph of project description goes here
-
 ATF - AnyTimeFitness
+
+# Project Link
+
+https://gnenov89.github.io/ATF/
+
 
 ## About 
 
@@ -20,34 +23,19 @@ Project Content:
 * Changing routes programmatically
 
 
-
-
-
-
-
-
-
-
-
-
-
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html)
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Georgi Nenov** - *Initial work* - (https://github.com/gnenov89)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 
