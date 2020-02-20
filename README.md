@@ -12,12 +12,12 @@ This is project presents the use React Router v4, a declarative routing solution
 Project Content:
 
 * Routing with the <Route/> Component
-*Declaring routes
-*Navigating between routes
-*Nesting routes
-*URL parameters
-*404 error routes
-*Changing routes programmatically
+* Declaring routes
+* Navigating between routes
+* Nesting routes
+* URL parameters
+* 404 error routes
+* Changing routes programmatically
 
 
 
