@@ -1,12 +1,23 @@
-# ATF
+
 https://gnenov89.github.io/ATF/
 # Project Title
 
 One Paragraph of project description goes here
 
-## Getting Started
+ATF - AnyTimeFitness
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## About 
+
+This is project presents the use React Router v4, a declarative routing solution for React, to manage navigation and rendering of components in your applications.
+Project Content:
+
+* Routing with the <Route/> Component
+*Declaring routes
+*Navigating between routes
+*Nesting routes
+*URL parameters
+*404 error routes
+*Changing routes programmatically
 
 
 
